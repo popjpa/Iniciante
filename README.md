@@ -1,6 +1,9 @@
-# Iniciante
-Turma Iniciante - 2016.
+## POP: Iniciante
+Turma 2016
 
-# Treinamentos
-- 14/05/2016: Nivelamento (Linguagem C)
-- 28/05/2016: C++ (Conceitos Básicos, iostream e string)
+### Treinamentos
+
+\# | Data | Linguagem | Conteúdo
+--- | --- | --- | ---
+01 | 14/05/2016 | C | Nivelamento
+02 | 28/05/2016 | C++ | Conceitos Básicos, iostream e string
