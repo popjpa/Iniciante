@@ -10,3 +10,6 @@ Turma 2016
 03 | 11/06/2016 | C++ | STL e vector
 04 | 02/07/2016 | C++ | list
 05 | 30/07/2016 | C++ | set e map
+06 | 15/10/2016 | Estruturas | Grafos
+07 | 29/10/2016 | Estruturas | Grafos
+
